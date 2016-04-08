@@ -1,0 +1,27 @@
+ html body {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1; }
+
+ i[class*='icon-'] {
+  background-image: url(../imgs/sprite/1x.png);
+  background-image: -webkit-image-set(url(../imgs/sprite/1x.png) 1x, url(../imgs/sprite/2x.png) 2x);
+  background-image: -moz-image-set(url(../imgs/sprite/1x.png) 1x, url(../imgs/sprite/2x.png) 2x);
+  background-image: -ms-image-set(url(../imgs/sprite/1x.png) 1x, url(../imgs/sprite/2x.png) 2x);
+  background-image: -o-image-set(url(../imgs/sprite/1x.png) 1x, url(../imgs/sprite/2x.png) 2x);
+  background-image: image-set(url(../imgs/sprite/1x.png) 1x, url(../imgs/sprite/2x.png) 2x);
+  background-repeat: no-repeat;
+  _background-image: url(../imgs/sprite/1x.png);
+  display: inline-block;
+  *display: inline;
+  *zoom: 1; }
+
+ i.icon-app18-address {
+  background-position: -0px -0px;
+  width: 18px;
+  height: 18px; }
+
+ i.icon-app30-bbs {
+  background-position: -18px -0px;
+  width: 30px;
+  height: 30px; }

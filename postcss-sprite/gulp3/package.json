@@ -1,0 +1,29 @@
+{
+  "name": "jingoal-fe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "concat-stream": "^1.5.1",
+    "gm": "^1.21.1",
+    "gulp": "^3.9.1",
+    "gulp-jingoal-thumbnail": "^1.0.0",
+    "gulp-postcss": "^6.1.0",
+    "gulp-require-jingoal": "^1.0.4",
+    "gulp-sass": "^2.2.0",
+    "gulp-util": "^3.0.7",
+    "jingoal-sprite": "^1.0.4",
+    "pixelsmith": "^2.1.0",
+    "postcss": "^5.0.19",
+    "postcss-jingoal": "^2.0.13",
+    "postcss-jingoal-sprite": "^1.0.3",
+    "through2": "^2.0.1",
+    "uglify-js": "^2.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
